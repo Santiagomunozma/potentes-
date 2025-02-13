@@ -1,0 +1,7 @@
+C:\Users\SANTIAGO MUÑOZ\Desktop\Ruleta rusa con repeticion\Ruleta rusa con repeticion\obj\Debug\Ruleta rusa con repeticion.csproj.AssemblyReference.cache
+C:\Users\SANTIAGO MUÑOZ\Desktop\Ruleta rusa con repeticion\Ruleta rusa con repeticion\obj\Debug\Ruleta rusa con repeticion.csproj.CoreCompileInputs.cache
+C:\Users\SANTIAGO MUÑOZ\Desktop\Ruleta rusa con repeticion\Ruleta rusa con repeticion\bin\Debug\Ruleta rusa con repeticion.exe.config
+C:\Users\SANTIAGO MUÑOZ\Desktop\Ruleta rusa con repeticion\Ruleta rusa con repeticion\bin\Debug\Ruleta rusa con repeticion.exe
+C:\Users\SANTIAGO MUÑOZ\Desktop\Ruleta rusa con repeticion\Ruleta rusa con repeticion\bin\Debug\Ruleta rusa con repeticion.pdb
+C:\Users\SANTIAGO MUÑOZ\Desktop\Ruleta rusa con repeticion\Ruleta rusa con repeticion\obj\Debug\Ruleta rusa con repeticion.exe
+C:\Users\SANTIAGO MUÑOZ\Desktop\Ruleta rusa con repeticion\Ruleta rusa con repeticion\obj\Debug\Ruleta rusa con repeticion.pdb
