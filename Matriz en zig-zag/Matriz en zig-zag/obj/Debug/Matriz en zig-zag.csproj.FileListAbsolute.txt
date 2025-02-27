@@ -1,0 +1,7 @@
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\Matriz en zig-zag\Matriz en zig-zag\bin\Debug\Matriz en zig-zag.exe.config
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\Matriz en zig-zag\Matriz en zig-zag\bin\Debug\Matriz en zig-zag.exe
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\Matriz en zig-zag\Matriz en zig-zag\bin\Debug\Matriz en zig-zag.pdb
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\Matriz en zig-zag\Matriz en zig-zag\obj\Debug\Matriz en zig-zag.csproj.AssemblyReference.cache
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\Matriz en zig-zag\Matriz en zig-zag\obj\Debug\Matriz en zig-zag.csproj.CoreCompileInputs.cache
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\Matriz en zig-zag\Matriz en zig-zag\obj\Debug\Matriz en zig-zag.exe
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\Matriz en zig-zag\Matriz en zig-zag\obj\Debug\Matriz en zig-zag.pdb
