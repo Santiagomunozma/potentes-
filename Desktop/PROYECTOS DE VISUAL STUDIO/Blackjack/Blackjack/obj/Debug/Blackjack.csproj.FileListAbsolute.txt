@@ -1,0 +1,7 @@
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.AssemblyReference.cache
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
