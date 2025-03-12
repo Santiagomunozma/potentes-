@@ -1,0 +1,7 @@
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\Clase_Vehiculo\Clase_Vehiculo\obj\Debug\Clase_Vehiculo.csproj.AssemblyReference.cache
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\Clase_Vehiculo\Clase_Vehiculo\obj\Debug\Clase_Vehiculo.csproj.CoreCompileInputs.cache
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\Clase_Vehiculo\Clase_Vehiculo\bin\Debug\Clase_Vehiculo.exe.config
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\Clase_Vehiculo\Clase_Vehiculo\bin\Debug\Clase_Vehiculo.exe
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\Clase_Vehiculo\Clase_Vehiculo\bin\Debug\Clase_Vehiculo.pdb
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\Clase_Vehiculo\Clase_Vehiculo\obj\Debug\Clase_Vehiculo.exe
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\Clase_Vehiculo\Clase_Vehiculo\obj\Debug\Clase_Vehiculo.pdb
