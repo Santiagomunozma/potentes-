@@ -1,0 +1,7 @@
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\El_Tumbis\El_Tumbis\obj\Debug\El_Tumbis.csproj.AssemblyReference.cache
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\El_Tumbis\El_Tumbis\obj\Debug\El_Tumbis.csproj.CoreCompileInputs.cache
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\El_Tumbis\El_Tumbis\bin\Debug\El_Tumbis.exe.config
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\El_Tumbis\El_Tumbis\bin\Debug\El_Tumbis.exe
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\El_Tumbis\El_Tumbis\bin\Debug\El_Tumbis.pdb
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\El_Tumbis\El_Tumbis\obj\Debug\El_Tumbis.exe
+C:\Users\SANTIAGO MUÑOZ\Desktop\PROYECTOS DE VISUAL STUDIO\El_Tumbis\El_Tumbis\obj\Debug\El_Tumbis.pdb
